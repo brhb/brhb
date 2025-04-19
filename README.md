@@ -34,6 +34,7 @@ My goal: **turn high-level AI into scalable, real-world solutions.**
 - 📐 3D CAD ↔️ camera image matching for visual inspection  
 - 🧪 Signal-based anomaly detection using thermocouples  
 - 📦 Lightweight AI pipelines for embedded systems
+-  :atom: LLM Assistance
 
 Check out my pinned projects below 👇 or explore my repositories to see what I’m working on!
 
